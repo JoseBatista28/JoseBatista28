@@ -1,6 +1,7 @@
 - 👋#Olá meu nome é José
-- meu email de contato é: jose_msbatista@hotmail.com
+- meu email de contato é: jose_msbatista@hotmail.com.
 - 👀 eu estou interessado a aprender a programar
+- 
 - 
 
 <!---
